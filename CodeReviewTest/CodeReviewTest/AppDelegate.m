@@ -12,7 +12,7 @@
 
 @end
 
-// just merge testing
+// testing purpose
 
 @implementation AppDelegate
 
